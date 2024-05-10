@@ -1,0 +1,20 @@
+[
+  {
+    "choice_id": 1,
+    "choice_text": "Explorar a floresta escura",
+    "next_choice_id": 2,
+    "next_part": "Ao entrar na floresta, você se depara com um caminho bifurcado. Para a esquerda, a trilha parece escura e misteriosa. Para a direita, o caminho é mais aberto e iluminado pelo sol. Qual caminho você seguirá?"
+  },
+  {
+    "choice_id": 2,
+    "choice_text": "Seguir o caminho escuro",
+    "next_choice_id": 3,
+    "next_part": "Ao seguir o caminho escuro, você sente um calafrio percorrer sua espinha. Sussurros ecoam pelas árvores, e a escuridão parece te envolver. Você continua seguindo em frente?"
+  },
+  {
+    "choice_id": 3,
+    "choice_text": "Sim, continuar seguindo",
+    "next_choice_id": 4,
+    "next_part": "A cada passo, a floresta se torna mais densa e escura. De repente, você vê uma luz no final do caminho. Ao se aproximar, você percebe que é uma cabana abandonada. Você entra para investigar?"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "João",
+    "appearance": "Cabelos castanhos, olhos azuis e um sorriso amigável",
+    "personality": "Aventureiro, corajoso e curioso"
+  },
+  {
+    "name": "Maria",
+    "appearance": "Cabelos loiros, olhos verdes e uma expressão séria",
+    "personality": "Inteligente, cautelosa e determinada"
+  },
+  {
+    "name": "Pedro",
+    "appearance": "Cabelos pretos, olhos castanhos e um olhar penetrante",
+    "personality": "Silencioso, observador e misterioso"
+  },
+  {
+    "name": "Ana",
+    "appearance": "Cabelos ruivos, olhos azuis e um sorriso contagiante",
+    "personality": "Extrovertida, amigável e otimista"
+  },
+  {
+    "name": "Lucas",
+    "appearance": "Cabelos castanhos, olhos pretos e uma expressão pensativa",
+    "personality": "Introspectivo, inteligente e criativo"
+  },
+  {
+    "name": "Julia",
+    "appearance": "Cabelos loiros, olhos azuis e uma expressão alegre",
+    "personality": "Animada, extrovertida e carinhosa"
+  },
+  {
+    "name": "Gabriel",
+    "appearance": "Cabelos pretos, olhos castanhos e um olhar sério",
+    "personality": "Calmo, focado e determinado"
+  },
+  {
+    "name": "Laura",
+    "appearance": "Cabelos castanhos, olhos verdes e um sorriso doce",
+    "personality": "Gentil, paciente e amorosa"
+  },
+  {
+    "name": "Rafael",
+    "appearance": "Cabelos loiros, olhos azuis e uma expressão confiante",
+    "personality": "Corajoso, leal e confiável"
+  },
+  {
+    "name": "Isabela",
+    "appearance": "Cabelos pretos, olhos castanhos e um olhar curioso",
+    "personality": "Curiosa, aventureira e destemida"
+  }
+]
